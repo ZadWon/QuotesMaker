@@ -1,0 +1,9 @@
+pillow
+requests
+transformers
+spacy
+moviepy
+moviepy==1.0.3
+scipy
+cloudinary
+torch
