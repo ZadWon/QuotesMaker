@@ -56,13 +56,13 @@ This project was built to showcase a production-grade automation pipeline, blend
 spaCy NLP: Implements linguistic analysis to identify key nouns and proper nouns. These are passed to the renderer to be dynamically bolded for visual emphasis.
 
 ### Creative Engine (The "Please HR Hire ME!" Section)
-Pillow (PIL): A custom typography engine that handles complex text wrapping, italic-vs-bold logic, and multi-layer rendering with drop shadows.
+- Pillow (PIL): A custom typography engine that handles complex text wrapping, italic-vs-bold logic, and multi-layer rendering with drop shadows.
 
-Geometric Masking: Unlike standard fades, we use a Pentagon-shaped dynamic mask. The vertices are mathematically interpolated over time to create a "bloom" reveal effect.
+- Geometric Masking: Unlike standard fades, we use a Pentagon-shaped dynamic mask. The vertices are mathematically interpolated over time to create a "bloom" reveal effect.
 
-MoviePy & NumPy VFX: * Waving Effect: Uses SciPy and NumPy to distort frame coordinates via sine waves, creating a custom "dreamy" motion effect.
+- MoviePy & NumPy VFX: * Waving Effect: Uses SciPy and NumPy to distort frame coordinates via sine waves, creating a custom "dreamy" motion effect.
 
-Ken Burns Logic: Automated zoom-out/in scaling to maintain viewer retention.
+- Ken Burns Logic: Automated zoom-out/in scaling to maintain viewer retention.
 
 ### Cloud & API Integration
 Cloudinary: Since the Instagram API requires a publicly accessible URL, the pipeline automatically uploads the video to Cloudinary, manages the asset, and hands the secure URL to the Meta servers.
