@@ -2,7 +2,7 @@
 
 Let’s cut to the results: This script transforms raw quotes into high-quality, social-media-ready videos with dynamic effects, automated branding, and direct-to-Instagram publishing.
 
-**[Click here to see a Sample Video](https://www.instagram.com/p/DUpoqefldtj/)**
+**[Click here to see a Sample Video]([https://www.instagram.com/p/DUpoqefldtj/](https://www.instagram.com/p/DH6PrZCOV1c/))**
 
 ---
 
